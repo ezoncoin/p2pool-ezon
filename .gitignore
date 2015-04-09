@@ -9,4 +9,4 @@ Makefile.local
 .pkg
 .coverage
 build
-web-static
+
