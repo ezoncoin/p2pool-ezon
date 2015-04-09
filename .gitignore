@@ -1,0 +1,12 @@
+*.pyc
+*.pyo
+*~
+
+data
+_trial_temp*
+Makefile.local
+.cache
+.pkg
+.coverage
+build
+web-static
